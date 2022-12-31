@@ -38,3 +38,8 @@ location = {London, United Kingdom},
 series = {KDD '18}
 }
 ```
+
+# Contact
+Bang An bang-an@uiowa.edu
+Xun Zhou xun-zhou@uiowa.edu
+
