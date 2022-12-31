@@ -40,6 +40,7 @@ series = {KDD '18}
 ```
 
 # Contact
-Bang An bang-an@uiowa.edu
-Xun Zhou xun-zhou@uiowa.edu
+Feel free to reach out if you have any questions.
+bang-an@uiowa.edu
+xun-zhou@uiowa.edu
 
