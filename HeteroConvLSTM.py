@@ -39,8 +39,8 @@ print(device)
 # Y data shape [batch, output_len (1), x_len_of_grid, y_len_of_grid]
 
 # loading traninig and validating data.
-X = np.load(open('E:/Hetero-convlstm/Data/X_Iowa_2016-2017_7_1.npy', 'rb')) # Specify your data path.
-Y = np.load(open('E:/Hetero-convlstm/Data/Y_Iowa_2016-2017_7_1.npy', 'rb')) # Specify your data path.
+X = np.load(open('X_Iowa_2016-2017_7_1.npy', 'rb')) # Specify your data path.
+Y = np.load(open('Y_Iowa_2016-2017_7_1.npy', 'rb')) # Specify your data path.
 
 X, Xv, Y, Yv = train_test_split(X, Y, test_size=0.20, random_state=1)
 
@@ -56,8 +56,8 @@ mask = np.ones((x_len, y_len))
 mask_table = mask
 """
 # loading testing data.
-Xt = np.load(open('E:/HintNet/Data/X_Iowa_2018_7_1.npy', 'rb')) # Specify your data path.
-Yt = np.load(open('E:/HintNet/Data/Y_Iowa_2018_7_1.npy', 'rb')) # Specify your data path.
+Xt = np.load(open('X_Iowa_2018_7_1.npy', 'rb')) # Specify your data path.
+Yt = np.load(open('Y_Iowa_2018_7_1.npy', 'rb')) # Specify your data path.
 
 
 # In[4]:
