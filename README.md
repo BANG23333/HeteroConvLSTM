@@ -15,8 +15,6 @@ In this paper we perform a comprehensive study on the traffic accident predictio
 - sklearn 1.1.1
 
 # Run Hetero-ConvLSTM
-Please download data from https://drive.google.com/file/d/1a3mVI31duZroH2M58eemjv6ZFAE63ZnY/view?usp=sharing
-\
 Modify path and Run HeteroConvLSTM.py
 
 # Citation
