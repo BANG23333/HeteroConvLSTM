@@ -37,8 +37,5 @@ series = {KDD '18}
 }
 ```
 
-# Contact
-Feel free to reach out if you have any questions.
-bang-an@uiowa.edu
-xun-zhou@uiowa.edu
-
+# Sample data
+[drive](https://drive.google.com/file/d/11mFFlVU_pC0xj0yonrZ-bE3wauRI1rqx/view)
